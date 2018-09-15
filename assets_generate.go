@@ -5,7 +5,7 @@ package main
 import (
 	"log"
 
-	"github.com/artificerpi/vfsgen-sample/data"
+	"./data"
 
 	"github.com/shurcooL/vfsgen"
 )

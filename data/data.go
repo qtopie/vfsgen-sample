@@ -2,7 +2,7 @@
 
 package data
 
-//go:generate go run -tags=dev assets_generate.go
+//go:generate go run -tags=dev ../assets_generate.go
 
 import "net/http"
 
