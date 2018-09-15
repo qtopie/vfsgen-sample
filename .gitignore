@@ -1,0 +1,3 @@
+vfsgen-sample*
+data/*vfsdata.go
+.vscode/
